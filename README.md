@@ -1,4 +1,4 @@
-# Smart Visitor Alert System 🚪📲
+# Smart Visitor Alert System
 
 ## Overview
 The Smart Visitor Alert System is an ESP32-based IoT project designed to detect visitors at the door using an IR motion sensor and ultrasonic distance validation. Upon confirming a visitor, the system sends a real-time notification via Telegram and displays greeting messages along with live time on an OLED screen.
